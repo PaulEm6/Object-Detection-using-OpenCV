@@ -1,7 +1,7 @@
 ### Project Summary
 
 #### Objective:
-The objective of the project is to identify objects on the ground within images of different rooms (kitchen, living room, and bedroom) of an apartment. This is achieved through various image processing techniques, including grayscale conversion, binary masking, contour detection, and the utilization of bounding boxes.
+The objective of the project is to identify objects on the ground within images of different rooms (kitchen, living room, and bedroom) of an apartment. This is achieved through various image processing techniques, including grayscale conversion, binary masking and the utilization of bounding boxes.
 
 #### Library Usage:
 The project utilizes the Python libraries OpenCV for image processing and Numpy for handling numerical data.
