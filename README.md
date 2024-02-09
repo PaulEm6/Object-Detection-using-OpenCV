@@ -1,4 +1,4 @@
-### Project Summary
+### Object Detection using OpenCV
 
 #### Objective:
 The objective of the project is to identify objects on the ground within images of different rooms (kitchen, living room, and bedroom) of an apartment. This is achieved through various image processing techniques, including grayscale conversion, binary masking and the utilization of bounding boxes.
@@ -16,6 +16,3 @@ This project has the potential to be improved and implemented in smart homes for
 #### Algorithm Implementation:
 The `run.py` script is used to apply the `algorithm.py` to the images specified as a path. 
 Example usage: `python run.py "Images"`
-
-### Project Summary
-
